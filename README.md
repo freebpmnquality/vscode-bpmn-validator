@@ -1,6 +1,6 @@
 # VS Code BPMN Validator
 
-This is a demo BPMN validator for VS Code editor.
+This is a demo BPMN file validator for VS Code editor.
 
 ## Demo
 
